@@ -26,6 +26,7 @@
   position: fixed;
   border-bottom: 1px solid seashell;
   justify-content: space-between;
+  top: 0;
 }
 
 /* logo */
@@ -52,4 +53,13 @@ li {
 
 a {
   display: block;
+}
+
+/* header  */
+
+header {
+  background-image: url("img/img-mission-background.jpg");
+  width: 1200px;
+  height: 700px;
+  margin-top: 70px;
 }
