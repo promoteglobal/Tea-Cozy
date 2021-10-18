@@ -11,4 +11,21 @@
   background-color: black;
   opacity: .9;
   text-align: center;
+  border: 1px solid red;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* before header */
+
+#before-header {
+  height: 69px;
+  width: 100%;
+  text-align: left;
+  display: flex;
+  position:fixed;
+}
+
+#logo {
+  margin: auto 10px;
 }

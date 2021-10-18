@@ -1,5 +1,5 @@
-setTimeout(() => {
+// setTimeout(() => {
 
-  window.location.reload (true);
+//   window.location.reload (true);
 
-}, 5000);
+// }, 5000);
