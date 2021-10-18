@@ -99,3 +99,16 @@ h2, h4 {
 .pic-caption img {
   margin: 10px;
 }
+
+/* locations*/
+
+#locations {
+  background-image: url("img/img-locations-background.jpg");
+  width: 1200px;
+  height: 500px;
+  display: flex;
+  margin: auto;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-position: 100% 25%;
+}
