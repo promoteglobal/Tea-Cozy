@@ -27,6 +27,7 @@
   border-bottom: 1px solid seashell;
   justify-content: space-between;
   top: 0;
+  z-index: 1;
 }
 
 /* logo */
@@ -62,4 +63,11 @@ header {
   width: 1200px;
   height: 700px;
   margin-top: 70px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+#header-titles {
+  width: 100%;
 }
