@@ -111,4 +111,35 @@ h2, h4 {
   object-fit: cover;
   background-repeat: no-repeat;
   background-position: 100% 25%;
+  align-items: center;
+}
+
+#locations div {
+  margin: auto;
+  background-color: transparent;
+}
+
+#locations h2 {
+  width: 100%;
+  background-color: transparent;
+  
+}
+
+.cardsRow {
+  display: flex;
+  background-color: transparent;
+  justify-content: space-between;
+  width: 980px;
+
+  
+
+}
+
+
+
+.locationCards {
+  margin: 20px;
+  width: 300px;
+  background-color: black;
+  opacity: 1;
 }
