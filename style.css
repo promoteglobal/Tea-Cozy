@@ -1,0 +1,14 @@
+/* Stylesheet for Tea Cozy */
+
+
+/* basic background*/
+
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: .9;
+  text-align: center;
+}
