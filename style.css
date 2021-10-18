@@ -84,8 +84,18 @@ main {
   display: flex;
   align-items: center;
   margin: auto;
+  flex-direction: column;
 }
 
 h2, h4 {
   margin: 5px;
+}
+
+/* Main imgs */
+.pic-caption {
+  display:inline-block;
+}
+
+.pic-caption img {
+  margin: 10px;
 }
