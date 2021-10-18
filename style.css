@@ -113,7 +113,7 @@ h2, h4 {
   align-items: center;
 }
 
-#locations div {
+#h2CardsRowcontainer {
   margin: auto;
   background-color: transparent;
 }
@@ -157,7 +157,7 @@ h2, h4 {
   margin: 20px;
 }
 
-.copyright {
+#copyright {
   text-align: left;
   margin-left: 20px;
 }
