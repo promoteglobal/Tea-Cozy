@@ -17,6 +17,11 @@
   padding: 0;
 }
 
+
+body {
+  margin: auto;
+}
+
 /* before header */
 
 #before-header {
@@ -68,6 +73,19 @@ header {
   margin: auto;
 }
 
-#header-titles {
+.header-titles {
   width: 100%;
+}
+
+/* main  */
+
+main {
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+h2, h4 {
+  margin: 5px;
 }
