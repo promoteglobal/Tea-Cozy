@@ -9,4 +9,4 @@ Just a simple html/css project. I followed one img of a design spec. (https://co
 
 
 ### Website:  
-Simple website: (https://promoteglobal.github.io/iteratorChart/)
+Simple website: (https://promoteglobal.github.io/Tea-Cozy/)
